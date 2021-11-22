@@ -1,0 +1,16 @@
+1) En app.js seteamos los estados loading y tours
+2) Agregamos la condicion de loading y los componentes Loading y tours
+3) Generamos la funcion fetchTours()
+4) Genero mi useEffect
+5) Agregamos la prop tours al componente Tours  
+6) Editamos Tours.js
+7) Editamos Tour.js
+8) Agregamos la funcionalidad de los botones
+9) Creamos el estado readMore en Tour.js
+10) Ponemos la condicion de mostrar mas info o no en prop
+11) Agregamos el button de read more
+12) Creo la funcion removeTour en App.js
+    - Paso la funcion removeTour como una prop en el componente Tours
+    - Despues lo destructuro en Tours.js y la agrego como prop en el componente Tour
+    - Voy a tour y destructuro y agrego la funcion en el button not interested
+13) Por ultimo creamos una condicion en App.js si se borran todos los tours

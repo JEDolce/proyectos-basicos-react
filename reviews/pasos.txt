@@ -1,0 +1,9 @@
+1) En este caso vamops a necesitar la libreria externa 'react-icons'
+    => Importamos los iconos en Review.js
+2) Editamos App.js y agregamos el componente Review.js
+3) Agrego el estado index y destructuro las propiedades de people para que me muestre las de la persona que quiero de acuerdo a index
+4) Edito Review.js
+5) Agregamos la funcionalidad de los botones
+    - funciones prevPerson y nextPerson
+    - funcion checkNumber
+    - funcion randomPerson
